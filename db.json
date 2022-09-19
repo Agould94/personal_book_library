@@ -1,0 +1,92 @@
+{
+  "Library": [
+    {
+      "image": "http://books.google.com/books/content?id=e3_6vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "title": "Harry Potter and the Goblet of Fire",
+      "subtitle": null,
+      "pageCount": 734,
+      "id": 1,
+      "stars": "3"
+    },
+    {
+      "image": "http://books.google.com/books/content?id=Y1GQRcIQkWAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "The Wealth of Nations",
+      "subtitle": null,
+      "pageCount": 672,
+      "id": 3,
+      "stars": "2"
+    },
+    {
+      "image": "http://books.google.com/books/content?id=C5dNAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "An Inquiry Into the Nature and Causes of the Wealth of Nations",
+      "subtitle": null,
+      "pageCount": 536,
+      "id": 4,
+      "stars": 0
+    },
+    {
+      "image": "http://books.google.com/books/content?id=ELUTyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "title": "Harry Potter and the Goblet of Fire - Slytherin Edition",
+      "subtitle": null,
+      "pageCount": 627,
+      "id": 5,
+      "stars": "3"
+    },
+    {
+      "image": "http://books.google.com/books/content?id=aPwPjVIxbGQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "Plato: 'The Republic'",
+      "subtitle": null,
+      "pageCount": 444,
+      "id": 6
+    },
+    {
+      "image": "http://books.google.com/books/content?id=cYYnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "title": "Autobiography of a Yogi (Royal Collector's Edition) (Annotated) (Case Laminate Hardcover with Jacket)",
+      "subtitle": null,
+      "pageCount": 408,
+      "id": 7
+    },
+    {
+      "image": "http://books.google.com/books/content?id=0eLbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "Think and Grow Rich",
+      "subtitle": "The Landmark Bestseller Now Revised and Updated for the 21st Century",
+      "pageCount": 320,
+      "id": 8
+    },
+    {
+      "image": "http://books.google.com/books/content?id=6qXrkQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "title": "Think and Grow Rich",
+      "subtitle": "The Secret to Wealth Updated for the 21st Century",
+      "pageCount": 254,
+      "id": 9
+    },
+    {
+      "image": "http://books.google.com/books/content?id=NoqTUhnvyHAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "Happiness and the Art of Being",
+      "subtitle": "An Introduction to the Philosophy and Practice of the Spiritual Teachings of Bhagavan Sri Ramana",
+      "pageCount": 494,
+      "id": 10
+    },
+    {
+      "image": "http://books.google.com/books/content?id=-G-THwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "title": "The Royal Palaces of London",
+      "subtitle": null,
+      "pageCount": 223,
+      "id": 11
+    },
+    {
+      "image": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "subtitle": null,
+      "pageCount": 311,
+      "id": 12
+    },
+    {
+      "image": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "subtitle": null,
+      "pageCount": 311,
+      "id": 13
+    }
+  ]
+}

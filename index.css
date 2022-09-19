@@ -1,0 +1,64 @@
+.bookCard{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    border: 1px solid black;
+    /* width: 25%; */
+    /* padding: 10%; */
+    position: center;
+    text-align: center;
+    align-items:center; 
+    background-color: tan;
+    
+}
+
+.header{
+    text-align: center;
+}
+
+.container {
+    display: inline;
+    padding-left: flex;
+    padding-right:flex;
+    background-color: teal;
+    /* align-items: stretch; *š
+    /* width:inherit; */
+  }
+
+#grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 100px;
+        border: 1px solid black;
+        width: 100%;
+
+        /* border: 1px solid black;
+        margin: 1rem;
+        padding: 2rem 2rem;
+        text-align: center; */
+}
+
+.gridchild{
+    margin: 10px;
+    border: 1px solid transparent
+    /* display: inline-block;
+    border: 1px solid red;
+    padding: .5rem .5rem;
+    vertical-align: top;
+    align-content: center;
+    justify-content:center */
+  }
+
+.form{
+    text-align:center;
+}
+ #library-div{
+    flex: 1;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+} 
+
+/* #librarydiv:first-child{
+    margin-right: 20px;
+} */
